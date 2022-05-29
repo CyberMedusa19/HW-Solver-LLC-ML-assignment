@@ -15,7 +15,7 @@ Extract the information from "Technology Skills" and "RAW DATA" columns from "Ex
 __Step 2: Comparing the data__<br>
 Compare the 2 lists and extract only the skills found in "Example_Technical_Skills.csv" from 'Raw_Skills_Dataset.csv' <br>
 
-__Step 3: Separating soft skills from technical skills__
+__Step 3: Separating soft skills from technical skills__<br>
 Upon examing the data in 'Raw_Skills_Dataset.csv' I notice that the entries can be classified as __technical skills__, __soft skills__, or __random words__.<br>
 
 I attempt to sepate soft skills from technical skills by extracting the soft skills from the 'raw_data' list I created earlier.<br>
